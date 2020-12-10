@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607445800 source:c:\users\dell\desktop\project\test\main.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	<string>
+
+1607499894 source:c:\users\dell\desktop\project\random password generator\main.cpp
+	<tchar.h>
+	<windows.h>
+	<ctime>
+	<string>
+
